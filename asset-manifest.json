@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://fares-benkhalifa.github.io/csb-w5iqqj/static/css/main.21e04a5d.css",
+    "main.js": "https://fares-benkhalifa.github.io/csb-w5iqqj/static/js/main.0dca1da0.js",
+    "index.html": "https://fares-benkhalifa.github.io/csb-w5iqqj/index.html",
+    "main.21e04a5d.css.map": "https://fares-benkhalifa.github.io/csb-w5iqqj/static/css/main.21e04a5d.css.map",
+    "main.0dca1da0.js.map": "https://fares-benkhalifa.github.io/csb-w5iqqj/static/js/main.0dca1da0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21e04a5d.css",
+    "static/js/main.0dca1da0.js"
+  ]
+}
